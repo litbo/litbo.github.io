@@ -1,6 +1,6 @@
 ﻿## Welcome to litbo blog
 
-### Test
+### 笔记
 日常技术记录和分享
 
 
